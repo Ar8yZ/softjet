@@ -17,7 +17,7 @@ const Header = () => {
             marginRight: { xs: 1, md: 2 },
           }}
           alt="MainLogo"
-          src="./public/logoSF.png"
+          src={`${import.meta.env.VITE_PUBLIC_URL}/logoSF.png`}
         />
         <Typography
           variant="h6"
