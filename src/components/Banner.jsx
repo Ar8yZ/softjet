@@ -16,7 +16,7 @@ const Banner = () => {
     >
       <Box
         component="img"
-        src="/LogoBanner.png"
+        src="LogoBanner.png"
         alt="test"
         sx={{
           width: { xs: "200px", md: "350px" },
