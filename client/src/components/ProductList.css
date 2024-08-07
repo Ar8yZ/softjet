@@ -1,0 +1,19 @@
+.slider-item {
+  padding: 0 10px; 
+  background-color: rgba(36, 36, 36, 255);
+}
+
+@media (max-width: 600px) {
+  .slider-item {
+    padding: 0 5px; 
+  }
+  .slider {
+    width: 100%; 
+  }
+}
+
+@media (min-width: 1024px) {
+  .slider-item .MuiCard-root {
+    height: 320px; 
+  }
+}
