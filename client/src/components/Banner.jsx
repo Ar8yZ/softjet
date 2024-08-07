@@ -16,7 +16,7 @@ const Banner = () => {
     >
       <Box
         component="img"
-        src="/public/LogoBanner.png"
+        src="/LogoBanner.png"
         alt="Logo Banner"
         sx={{
           width: { xs: "200px", md: "350px" }, // Ширина изменяется в зависимости от размера экрана
