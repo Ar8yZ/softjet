@@ -8,7 +8,7 @@ const products = [
   {
     id: 1,
     title: "Горный велосипед",
-    image: "/softjet/public/content/1.png",
+    image: "content/1.png",
     description:
       "Высококачественный горный велосипед для внедорожных приключений.",
     price: "55000 ₽",
@@ -32,7 +32,7 @@ const products = [
   {
     id: 4,
     title: "Кемпинговый рюкзак",
-    image: "/softjet/public/content/4.png",
+    image: "content/4.png",
     description:
       "Прочный рюкзак с множеством карманов и отделений с клапанами для походов.",
     price: "10000 ₽",
