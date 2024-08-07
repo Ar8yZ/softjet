@@ -16,8 +16,8 @@ const Header = () => {
             height: { xs: 30, md: 40 },
             marginRight: { xs: 1, md: 2 },
           }}
-          alt="SoftJet Logo"
-          src="/softjet/public/logoSF.png"
+          alt="SoftJet1 Logo"
+          src="/logoSF.png"
         />
         <Typography
           variant="h6"
